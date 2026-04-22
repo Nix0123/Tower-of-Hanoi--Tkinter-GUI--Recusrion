@@ -95,9 +95,3 @@ The puzzle was invented by French mathematician **Édouard Lucas in 1883**. It i
 +91-9878770515
 taran.pvt@gmail.com
 University Institute of Computing, Chandigarh University
-
----
-
-## 📄 License
-
-This project is intended for academic and educational purposes.
